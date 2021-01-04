@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I come from Nanjing, China. During the past twenty-something years, my footprint is Nanjing-> Hangzhou-> Minneapolis -> Seattle -> Sunnyvale. My personal interest has always being somewhat Mathematical in my whole life. Eventually, I got PhD degree in Statistics from the University of Minnesota, Twin Cities. And now I work as a Machine Learning Engineer in Roku's search team.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Message me at [LinkedIn](https://www.linkedin.com/in/yu-zhou-isabella/)
